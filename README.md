@@ -40,7 +40,7 @@ I build modern web applications with **React**, **Node.js** and **Python**, with
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Portfolio**](https://imadteryaki.vercel.app) | Personal portfolio with admin dashboard, multilingual (DE/EN/AR) | React, Vite, Tailwind, Framer Motion, Node.js, MongoDB |
+| [**Portfolio**](https://github.com/imadteryaki/portfolio) · [Live](https://imadteryaki.vercel.app) | Personal portfolio with admin dashboard, multilingual (DE/EN/AR) | React, Vite, Tailwind, Framer Motion, Node.js, MongoDB |
 | [**Full-Stack Booking App**](https://github.com/imadteryaki/fullstack-booking-app) | Hotel booking app with REST API and JWT authentication | React, Node.js, Express, MongoDB |
 | [**SPA Booking App**](https://github.com/imadteryaki/spa-booking-app) | Hotel booking single-page app with search and date picker | React, React Router, SCSS |
 | [**Tic-Tac-Toe CLI**](https://github.com/imadteryaki/tic-tac-toe-cli) | Two-player Tic-Tac-Toe game for the terminal | Node.js |
