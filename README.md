@@ -3,7 +3,7 @@
 **Full Stack Software Developer** based in Wuppertal, Germany.
 I build modern web applications with **React**, **Node.js** and **Python**, with a focus on clean code, good user experience and continuous learning.
 
-🌐 [imadteryaki.vercel.app](https://imadteryaki.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/imad-teryaki-0b7b98270/) · 🗣️ German · English · Arabic
+ [imadteryaki.vercel.app](https://imadteryaki.vercel.app) · [LinkedIn](https://www.linkedin.com/in/imad-teryaki-0b7b98270/) · German · English · Arabic
 
 ---
 
