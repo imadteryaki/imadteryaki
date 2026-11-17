@@ -7,7 +7,7 @@ I build modern web applications with **React**, **Node.js** and **Python**, with
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -36,7 +36,7 @@ I build modern web applications with **React**, **Node.js** and **Python**, with
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -47,6 +47,6 @@ I build modern web applications with **React**, **Node.js** and **Python**, with
 
 ---
 
-### 📫 Get in touch
+### Get in touch
 
 I'm open to new opportunities – feel free to reach out via [LinkedIn](https://www.linkedin.com/in/imad-teryaki-0b7b98270/) or my [website](https://imadteryaki.vercel.app).
